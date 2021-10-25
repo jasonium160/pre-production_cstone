@@ -27,7 +27,7 @@ stuff that looks good so far:
 --------------
 - APIs:
   - [giantbobm](https://www.giantbomb.com/api/)
-  - [steam webAPI](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetUserStatsForGame_.28v0002.29)
+  - [Steam Web API Documentation](https://steamcommunity.com/dev)
 --------------
 - To Scrape: 
   - [VGchartz](https://www.vgchartz.com/analysis/platform_totals/Hardware/NA/)
